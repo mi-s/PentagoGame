@@ -1,7 +1,7 @@
 # PentagoGame
 Final project coded in C for CMSC 15200
 
-The rules for the game of pentago can be found [here](http://www.creativedeployment.com/clients/mindtwister/strategy-guides/MTUSA_Pentago%20Rules-Strategy%20Guide%202015.pdf)
+The rules for the game of pentago can be found [here](http://www.creativedeployment.com/clients/mindtwister/strategy-guides/MTUSA_Pentago%20Rules-Strategy%20Guide%202015.pdf).
 
 This project was useful as practice in building larger programs, using different data structures, and memory allocation. 
 
